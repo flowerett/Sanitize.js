@@ -1,0 +1,18 @@
+{
+  "name": "Sanitize.js",
+  "main": "lib/sanitize.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gbirke/Sanitize.js",
+  "authors": [
+    "Gabriel Birke"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sanitize"
+  ],
+  "ignore": [
+    "*.md",
+    "examples",
+    "test"
+  ]
+}
